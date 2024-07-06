@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sankalp-designer/Admin-Panel/static/css/main.1d9d0b87.css",
+    "main.js": "/Sankalp-designer/Admin-Panel/static/js/main.3fbcb383.js",
+    "index.html": "/Sankalp-designer/Admin-Panel/index.html",
+    "main.1d9d0b87.css.map": "/Sankalp-designer/Admin-Panel/static/css/main.1d9d0b87.css.map",
+    "main.3fbcb383.js.map": "/Sankalp-designer/Admin-Panel/static/js/main.3fbcb383.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d9d0b87.css",
+    "static/js/main.3fbcb383.js"
+  ]
+}
